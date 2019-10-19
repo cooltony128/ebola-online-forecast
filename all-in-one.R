@@ -1,7 +1,7 @@
 rm(list=ls())
 
 #### Sarita code: Note - change wd so it matches with computer
-##setwd("C:/Users/coolt/Documents/EBOLA") #set to working folder
+##setwd() #set to working folder
 data<-read.csv("2019-01-07_data.csv", header =T)
 
 
